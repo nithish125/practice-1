@@ -1,0 +1,115 @@
+header {
+    background-color: gray;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+nav {
+    color: aliceblue;
+}
+
+h1 {
+    color: whitesmoke;
+    font-size: 28px;
+    text-transform: uppercase;
+}
+
+#bol {
+    font-size: 20px;
+}
+
+.exp {
+    color: black;
+    margin-left: 5%;
+    padding: 2%;
+    font-size: 20px;
+}
+
+.sp {
+    font-size: 14px;
+    margin-left: 59px;
+}
+
+.part {
+    margin-left: 20%;
+    padding: 0%;
+}
+
+.bl {
+    margin-left: 1%;
+}
+
+.wait {
+    margin-left: 5%;
+}
+
+.wai {
+    margin-left: 1%;
+}
+
+#firsh1 {
+    color: aliceblue;
+    font-size: 20px;
+}
+
+.par {
+    margin-left: 165px;
+}
+
+.skill {
+    margin-left: 5%;
+}
+
+
+
+
+
+.form {
+    color: yellow;
+    padding: 20px 0px 0px 60p
+}
+
+input {
+    max-width: 900px;
+    padding: 1px 2px;
+}
+
+#b {
+    background-color: blue;
+    cursor: pointer;
+}
+
+.container {
+    border-radius: 5px;
+    background-color: grey;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.heading {
+    color: red;
+}
+
+a {
+    color: red;
+}
+
+.mar {
+    margin: 0px 397px 78px 559px;
+}
+
+.bard {
+    display: flex;
+    justify-content: center;
+}
+
+.fsd {
+    text-transform: uppercase;
+    display: flex;
+    justify-content: center;
+    color: orange;
+}
