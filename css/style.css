@@ -1,0 +1,218 @@
+header {
+    background-color: #363c48
+}
+
+.fullbody {
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1;
+    width: 906px;
+    margin: 0 165px;
+}
+
+.name h2 {
+    font-size: 19px;
+    color: aliceblue;
+    margin: 15px 0px 22px 36px;
+}
+
+.navication a {
+    color: aliceblue;
+}
+
+.navication {
+    color: aliceblue;
+    padding-bottom: 20px;
+}
+
+.p1 {
+    line-height: 24px;
+    margin: 11px 0px 0px 3px;
+    padding: 0px 14px 3px 37px;
+    font-size: 14px;
+}
+
+.navication .ph {
+    color: aliceblue;
+    padding: 9px 0px 0px 34px;
+    font-size: 12px;
+
+}
+
+.navication .linkedin {
+    color: aliceblue;
+    padding: 0px 0px 0px 335px;
+    margin: -13px 0px 0px 0px;
+    font-size: 14px;
+
+}
+
+.navication .mail {
+    font-size: 13px;
+    color: aliceblue;
+    padding: 17px 0px 0px 32px;
+}
+
+.navication .twitter {
+    color: aliceblue;
+    font-size: 13px;
+    margin: -14px 0px 0px 339px;
+
+}
+
+.heading h1 {
+    color: rgb(255 255 255);
+    font-size: 28px;
+    text-transform: uppercase;
+    padding: 40px 0px 0px 41px;
+
+}
+
+#bol {
+    font-size: 20px;
+}
+
+.nam{
+    margin: 6px 0px 12px 91px;
+    font-size: 18px
+}
+
+.sp {
+    
+    font-size: 14px;
+    margin: 1px 0px 0px 96px;
+}
+
+.part {
+    margin-left: 20%;
+    padding: 0%;
+}
+
+.bl {
+    line-height: 36px;
+    padding: 24px 0px 0px 7px;
+
+}
+
+.wait {
+    margin-left: 3%;
+    font-size: 13px;
+    font-style:italic;
+}
+.first .paragraph{
+    font-size: 14px;
+    line-height: 23px;
+    margin: 4px 0px 0px 192px;
+}
+
+.wai {
+    margin: 0px 0px 0px 4px;
+    font-size: 14px;
+    font-style: italic;
+}
+
+#firsh1 {
+    color: aliceblue;
+    font-size: 19px;
+    padding: 9px 22px 7px 31px;
+}
+
+.pargraph2 {
+    font-size: 15px;
+    line-height: 23px;
+    margin: 1px 0px 27px 195px;
+    
+
+}
+.education .date{}
+.education .par{
+    margin: -2px 0px 28px 196px;
+    line-height: 22px;
+    font-size: 15px;
+
+}
+.sk{
+    margin-bottom: 20px;
+}
+
+.skill {
+    line-height: 31px;
+    font-size: 14px;
+    margin: 0px 0px 0px 90px;
+}
+.software{
+    margin: 0px 0px 38px 0px;
+
+}
+.soft{
+    line-height: 48px;
+    font-size: 13px;
+    margin: -3px 0px 8px 92px;
+
+}
+
+.tab table {}
+
+th {
+    border: 3px solid;
+    background-color: darkturquoise;
+    padding: 0px 16px 0px 16px;
+    line-height: 50px;
+    text-align: center;
+}
+
+.tab table tr td {
+    border: 3px solid darkgreen;
+    background-color: darkgoldenrod;
+    line-height: 40px;
+    text-align: center;
+}
+
+
+
+.form {
+    color: yellow;
+    padding: 20px 0px 0px 60px;
+}
+
+input {
+    max-width: 900px;
+    padding: 1px 2px;
+}
+
+#b {
+    background-color: blue;
+    cursor: pointer;
+}
+
+.container {
+    border-radius: 5px;
+    background-color: grey;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.heading {
+    color: red;
+}
+
+a {
+    color: red;
+}
+
+.mar {
+    margin: 0px 397px 78px 559px;
+}
+
+.bard {
+    display: flex;
+    justify-content: center;
+}
+
+.fsd {
+    text-transform: uppercase;
+    display: flex;
+    justify-content: center;
+    color: orange;
+}
