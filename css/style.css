@@ -3,7 +3,6 @@ header {
 }
 
 .fullbody {
-    font-family: 'Montserrat', sans-serif;
     line-height: 1;
     width: 906px;
     margin: 0 165px;
@@ -26,8 +25,8 @@ header {
 
 .p1 {
     line-height: 24px;
-    margin: 11px 0px 0px 3px;
-    padding: 0px 14px 3px 37px;
+    margin: 8px 0px 29px 3px;
+    padding: -1px 14px 3px 37px;
     font-size: 14px;
 }
 
@@ -72,9 +71,135 @@ header {
 }
 
 .nam{
-    margin: 6px 0px 12px 91px;
-    font-size: 18px
+    margin: 9px 0px 12px 91px;
+    font-size: 18px;
+    position: relative;
 }
+.education .blackbox span{
+    height: 30px;
+    width: 30px;
+    background-color: black;
+    position: absolute;
+    margin: -6px 0px 0px 44px;
+    transform: rotate(50deg);
+    -ms-transform: rotate(50deg);	
+    -webkit-transform: rotate(50deg);
+    display: inline-block;
+}
+
+.sk .black_line span{
+    height: 300px;
+    width: 30px;
+    background-color: black;
+}
+
+.sk .blackbox span{
+    height: 30px;
+    width: 30px;
+    background-color: black;
+    position: absolute;
+    margin: -6px 0px 0px 44px;
+    transform: rotate(50deg);
+    -ms-transform: rotate(50deg);	
+    -webkit-transform: rotate(50deg);
+    display: inline-block;
+}.software .blackbox span{
+    height: 30px;
+    width: 30px;
+    background-color: black;
+    position: absolute;
+    margin: -6px 0px 0px 44px;
+    transform: rotate(50deg);
+    -ms-transform: rotate(50deg);	
+    -webkit-transform: rotate(50deg);
+    display: inline-block;
+}
+
+.certifications .blackbox span{
+    height: 30px;
+    width: 30px;
+    background-color: black;
+    position: absolute;
+    margin: -6px 0px 0px 44px;
+    transform: rotate(50deg);
+    -ms-transform: rotate(50deg);	
+    -webkit-transform: rotate(50deg);
+    display: inline-block;
+}
+.experience .blackbox span{
+    height: 30px;
+    width: 30px;
+    background-color: black;
+    position: absolute;
+    margin: -5px 0px 0px 44px;
+    transform: rotate(50deg);
+    -ms-transform: rotate(50deg);	
+    -webkit-transform: rotate(50deg);
+    display: inline-block;
+}
+.experience .icofont-bag-alt:before {
+    content: "\eeab";
+    color:aliceblue;
+    position: absolute ;
+    /* border: 2px solid aliceblue; */
+    margin: 0px 0px 0px -41px;
+}
+ .blackbox1 span{
+    height: 10px;
+    width: 10px;
+    background-color: black;
+    position: absolute;
+    margin: 2px 0px 0px 55px;
+    transform: rotate(50deg);
+    -ms-transform: rotate(50deg);	
+    -webkit-transform: rotate(50deg);
+    display: inline-block;
+}
+.soft .blackbox1 span{
+    height: 10px;
+    width: 10px;
+    background-color: black;
+    position: absolute;
+    margin: 19px 0px 0px -40px;
+    transform: rotate(50deg);
+    -ms-transform: rotate(50deg);	
+    -webkit-transform: rotate(50deg);
+    display: inline-block;
+    position: absolute;
+
+}
+.skill .blackbox1 span{
+    height: 10px;
+    width: 10px;
+    background-color: black;
+    position: absolute;
+    margin: 9px 0px 0px -40px;
+    transform: rotate(50deg);
+    -ms-transform: rotate(50deg);	
+    -webkit-transform: rotate(50deg);
+    display: inline-block;
+    position: absolute;
+}
+
+.cer .blackbox1 span{
+    height: 10px;
+    width: 10px;
+    background-color: black;
+    position: absolute;
+    margin: 7px 0px 0px -40px;
+    transform: rotate(50deg);
+    -ms-transform: rotate(50deg);	
+    -webkit-transform: rotate(50deg);
+    display: inline-block;
+    position: absolute;
+}
+.cer{
+    display: flex;
+    display: flex;
+    line-height: 27px;
+    margin: 21px 0px 0px 92px;
+}
+
 
 .sp {
     
@@ -89,7 +214,8 @@ header {
 
 .bl {
     line-height: 36px;
-    padding: 24px 0px 0px 7px;
+    padding: 20px 0px 0px 26px;
+    font-size: 18px;
 
 }
 
@@ -98,15 +224,47 @@ header {
     font-size: 13px;
     font-style:italic;
 }
+.first{
+    display: flex;
+    margin: 0px 0px 0px 2px;
+}
+.first .date{
+    margin: 12px 0px -1px -5px;
+    line-height: 18px;
+}
+
+
 .first .paragraph{
     font-size: 14px;
     line-height: 23px;
-    margin: 4px 0px 0px 192px;
+    margin: 4px 0px 0px 27px;
+}
+.second
+{
+display: flex;
+margin-bottom: -9px;
+}
+.second .paragraph2{
+    font-size: 15px;
+    line-height: 22px;
+    margin: 0px 0px 27px 25px;
+
+}
+.second .date1{
+    margin: 11px 0px 0px -3px;
+    line-height: 19px;
+}
+.edu{
+    display: flex;
+}
+.date3{
+    line-height: 20px;
+    margin: 15px 0px 0px -2px;
 }
 
 .wai {
-    margin: 0px 0px 0px 4px;
-    font-size: 14px;
+    margin: 0px 0px 0px 26px;
+    font-size: 16px;
     font-style: italic;
 }
 
@@ -119,13 +277,18 @@ header {
 .pargraph2 {
     font-size: 15px;
     line-height: 23px;
-    margin: 1px 0px 27px 195px;
+    margin: 1px 0px 27px 23px;
     
 
 }
-.education .date{}
-.education .par{
-    margin: -2px 0px 28px 196px;
+.education{
+    margin-bottom: -10px;
+}
+.education .project3{
+  margin:   4px 0px 0px 9px;
+}
+.education .paragraph3{
+    margin: -5px 0px 28px 29px;
     line-height: 22px;
     font-size: 15px;
 
@@ -149,8 +312,6 @@ header {
     margin: -3px 0px 8px 92px;
 
 }
-
-.tab table {}
 
 th {
     border: 3px solid;
@@ -215,4 +376,17 @@ a {
     display: flex;
     justify-content: center;
     color: orange;
+}
+.icofont-hat:before {
+    content: "\eadf";
+    font-size: 28px;
+    color: aliceblue;
+    margin: 0px 0px 0px -46px;
+    position: absolute;
+}
+.icofont-imac:before {
+    content: "\ea39";
+    position: absolute;
+    color: aliceblue;
+    margin: 0px 0px 0px -41px;
 }
